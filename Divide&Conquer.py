@@ -1,7 +1,7 @@
 #!/bin/python3
 
 '''
-公治法（Divide and Conquer）
+分治法（Divide and Conquer）
 - 將大問題分割成多個子問題以便處理
 - ex. quick sort、recursion
 
